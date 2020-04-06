@@ -11,3 +11,10 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - jupyter_contrib_nbextensions
+  - jupyterlab
+  - seaborn
+  - scikit-learn
+  - ipywidgets
+  - widgetsnbextension
+  - rise
